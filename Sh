@@ -1,0 +1,3 @@
+hasura init fintech-platform
+cd fintech-platform
+hasura console

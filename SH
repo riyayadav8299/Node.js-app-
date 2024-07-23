@@ -1,0 +1,1 @@
+hasura migrate apply
